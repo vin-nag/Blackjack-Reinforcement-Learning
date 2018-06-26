@@ -31,4 +31,4 @@ tweaking? This is the question that we aim to answer.
 * To reproduce the results shown in the report, please execute the `ResultDataWriter.py` file, and input your choice of parameters.
 
 ## Report
-The final report for this project is found [here](Blackjack-Reinforcement-Learning/A Comparison Of Reinforcement Learning Algorithms Using Blackjack.pdf).
+The final report for this project is found [here](https://github.com/vin-nag/Blackjack-Reinforcement-Learning/blob/master/A%20Comparison%20Of%20Reinforcement%20Learning%20Algorithms%20Using%20Blackjack.pdf).
