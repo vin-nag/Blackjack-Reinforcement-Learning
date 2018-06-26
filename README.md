@@ -1,5 +1,5 @@
-# A Comparison Of Reinforcement Learning Algorithms Using Blackjack
-__Ready for the slaughter__
+# A Comparison Of Reinforcement Learning Algorithms Using Blackjack #
+
 
 ![Game Screenshot](https://github.com/htmlboss/blackjack/blob/master/Report/samplegame.png "In-game UI")
 
