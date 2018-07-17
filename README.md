@@ -1,5 +1,5 @@
 # A Comparison Of Reinforcement Learning Algorithms Using Blackjack #
-
+By Miri, Nabil; Nagisetty, Vineel; and Parsons, Steve: all students at Memorial University of Newfoundland
 
 ![Game Screenshot](https://github.com/htmlboss/blackjack/blob/master/Report/samplegame.png "In-game UI")
 
